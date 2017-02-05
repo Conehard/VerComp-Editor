@@ -1,0 +1,9 @@
+C:\Users\André\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VerComp Editor.exe.config
+C:\Users\André\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VerComp Editor.exe
+C:\Users\André\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VerComp Editor.pdb
+C:\Users\André\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\VerComp Editor.csprojResolveAssemblyReference.cache
+C:\Users\André\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\André\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\VerCompEditor.Properties.Resources.resources
+C:\Users\André\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\VerComp Editor.csproj.GenerateResource.Cache
+C:\Users\André\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\VerComp Editor.exe
+C:\Users\André\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\VerComp Editor.pdb
